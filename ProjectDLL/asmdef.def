@@ -1,0 +1,6 @@
+LIBRARY	"ProjectDLL"
+EXPORTS
+ConvertYtoX
+ValuesInitialization
+FactorsGeneration
+PolynomialValue
